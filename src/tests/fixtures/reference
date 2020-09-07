@@ -1,0 +1,2 @@
+file://noparent
+per-file .eslintrc.js=file://simple

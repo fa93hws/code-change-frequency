@@ -1,0 +1,7 @@
+set noparent
+hearnden@canva.com
+joscha@canva.com
+per-file .eslintrc.js=file://reference
+per-file .eslintrc-js.js=file://simple
+per-file webpack.package.js=christian.s@canva.com
+per-file webpack.package.ts=christian.s@canva.com
